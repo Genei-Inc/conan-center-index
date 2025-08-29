@@ -1,6 +1,6 @@
 sources:
   "1.5.2":
-    url: "https://gitlab.xiph.org/xiph/opus/-/archive/v1.5.2/opus-v1.5.2.tar.gz"
+    url: "https://github.com/xiph/opus/releases/download/v1.5.2/opus-1.5.2.tar.gz"
     sha256: "5cf92b5b577d8ed203424f1e0f618f30bc6b6e42a26eae88bdb649ea63961cc9"
   "1.4":
     url: "https://github.com/xiph/opus/releases/download/v1.4/opus-1.4.tar.gz"
